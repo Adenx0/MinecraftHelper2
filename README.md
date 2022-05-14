@@ -1,4 +1,4 @@
-# MinecraftHelper2
+# Minecraft Helper 2
 This software is written in Chinese(E Language).
 # Virus
 There is no virus.
