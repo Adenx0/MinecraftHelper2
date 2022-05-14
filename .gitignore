@@ -5,3 +5,5 @@ build/libraries/support/krnln.fnr
 build/Minecraft Helper 2.exe
 build/subroutine/cheat_download/cheat_download.exe
 build/subroutine/java_download/java_download.exe
+build/subroutine/auxiliary_url/subroutine/community/community.exe
+build/subroutine/auxiliary_url/subroutine/mojang_website/mojang_website.exe
