@@ -1,5 +1,8 @@
 # Minecraft Helper 2
 This software is written in Chinese(E Language).
+This is a software to help you install Java, third party launcher.
+It also has a number of ancillary web sites.
+Unfortunately, only Chinese is currently supported.
 # Virus
 There is no virus.
 If an antivirus software detects a virus, add it to the trust zone
